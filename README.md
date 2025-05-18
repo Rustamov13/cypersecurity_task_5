@@ -14,3 +14,4 @@
 ![alt text](https://raw.githubusercontent.com/Rustamov13/cypersecurity_task_5/main/Lab5_12.png)
 ![alt text](https://raw.githubusercontent.com/Rustamov13/cypersecurity_task_5/main/Lab5_13.png)
 ![alt text](https://raw.githubusercontent.com/Rustamov13/cypersecurity_task_5/main/Lab5_14.png)
+![alt text](https://raw.githubusercontent.com/Rustamov13/cypersecurity_task_5/main/Lab5_3.png)
